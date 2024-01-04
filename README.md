@@ -1,6 +1,5 @@
 # React-Admin-Dashboard
 
-# React-Admin-Dashboard
 
 This is an Admin Dashboard made in React JS. 
 
